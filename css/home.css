@@ -2,3 +2,14 @@ body
 {
  margin-top: 50px;
 }
+
+.intro img
+{
+  width: 48px;
+  height: 48px;
+}
+
+.intro p.text
+{
+  margin-top: 5px;
+}
