@@ -1,17 +1,9 @@
-body
+.intro
 {
- margin-top: 50px;
+  font-family: 'Amethysta', serif;
 }
 
-.intro img
+.row.avatar
 {
-  /*
-  width: 48px;
-  height: 48px;
-  */
-}
-
-.intro p.text
-{
-  margin-top: 5px;
+  margin-top: 150px;
 }
