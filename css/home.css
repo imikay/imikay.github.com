@@ -6,7 +6,9 @@ body
 
 .intro
 {
-  font-family: 'Amethysta', serif;
+  font-family: 'Electrolize', sans-serif;
+  text-shadow: none;
+  text-decoration: none;
   font-size: 20px;
   line-height: 30px;
 }
