@@ -2,13 +2,13 @@ body
 {
   color: #A8BCCE;
   background-color: #2B435A;
-  font-size: 20px;
-  line-height: 30px;
 }
 
 .intro
 {
   font-family: 'Amethysta', serif;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .row.avatar
