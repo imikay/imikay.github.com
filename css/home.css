@@ -13,6 +13,11 @@ body
   line-height: 30px;
 }
 
+.name
+{
+  color: #A8BCCE;
+}
+
 .find-me
 {
   font-family: 'Electrolize', sans-serif;
