@@ -1,11 +1,10 @@
 body 
 {
-
+  background-color: #2B435A;
 }
 
 .intro
 {
-  background-color: #2B435A;
   font-family: 'Electrolize', sans-serif;
   text-shadow: none;
   text-decoration: none;
