@@ -1,16 +1,16 @@
 body 
 {
+
+}
+
+.intro
+{
   background-color: #2B435A;
   font-family: 'Electrolize', sans-serif;
   text-shadow: none;
   text-decoration: none;
   font-size: 20px;
   line-height: 30px;
-}
-
-.intro
-{
-  color: #A8BCCE;
 }
 
 .find-me
