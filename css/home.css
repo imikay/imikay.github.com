@@ -3,14 +3,14 @@ body
   font-family: 100% 'Helvetica Neue', Helvetica, Arial, Sans-serif;
   background-color: #fff;
   color: #3a3a3a;
+  font-size: 14px;
+  line-height: 1.5em;  
 }
 
 .intro
 {
   text-shadow: none;
   text-decoration: none;
-  font-size: 20px;
-  line-height: 30px;
 }
 
 .name
@@ -22,8 +22,6 @@ body
 {
   text-shadow: none;
   text-decoration: none;
-  font-size: 20px;
-  line-height: 30px;
 }
 
 .row.avatar
