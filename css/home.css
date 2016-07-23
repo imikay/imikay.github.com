@@ -1,27 +1,25 @@
 body 
 {
-  background-color: #2B435A;
-  color: #A8BCCE;
+  font-family: 'San Francisco', sans-serif;
+  background-color: #fff;
+  color: #3a3a3a;
 }
 
 .intro
 {
-  font-family: 'Electrolize', sans-serif;
   text-shadow: none;
   text-decoration: none;
   font-size: 20px;
   line-height: 30px;
-  color: #516C85;
 }
 
 .name
 {
-  color: #A8BCCE;
+  font-weight: bold;
 }
 
 .find-me
 {
-  font-family: 'Electrolize', sans-serif;
   text-shadow: none;
   text-decoration: none;
   font-size: 20px;
