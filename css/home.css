@@ -7,6 +7,11 @@ body
   line-height: 1.5em;  
 }
 
+.row.avatar-block
+{
+  margin-top: 150px;
+}
+
 .avatar
 {
   width: 80%;
@@ -33,11 +38,6 @@ body
   text-decoration: none;
   font-size: 22px;
   line-height: 1.5em; 
-}
-
-.row.avatar
-{
-  margin-top: 150px;
 }
 
 .sns
