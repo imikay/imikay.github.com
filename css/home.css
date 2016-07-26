@@ -40,12 +40,7 @@ body
 
 .findme
 {
-  margin-top: 20px;
-}
-
-.crossed
-{
-  text-decoration: line-through;
+  margin-top: 2em;
 }
 
 a
@@ -56,4 +51,5 @@ a
 a:hover
 {
   color: #0900ff;
+  text-decoration: none;
 }
