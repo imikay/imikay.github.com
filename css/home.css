@@ -61,6 +61,7 @@ body
 a
 {
   color: #8784d0;
+  cursor: point;
 }
 
 a:hover
