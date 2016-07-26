@@ -50,3 +50,8 @@ a
 {
   color: #625cff;
 }
+
+a:hover
+{
+  color: #0900ff;
+}
