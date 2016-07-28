@@ -74,3 +74,20 @@ a.twitter:hover
 {
   color: #55acee; 
 }
+
+a.facebook:hover
+{
+  color: #3b5998; 
+}
+
+a.linkedin:hover
+{
+  color: #0077b5; 
+}
+
+a.github:hover
+{
+  color: #666666; 
+}
+
+
