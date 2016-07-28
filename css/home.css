@@ -88,4 +88,9 @@ a.github:hover
   color: #666666; 
 }
 
+h4
+{
+  text-transform: uppercase;
+}
+
 
