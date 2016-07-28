@@ -13,6 +13,11 @@ body
     to   { opacity: 1; }
 }
 
+.row
+{
+  margin-bottom: 2em;
+}
+
 .row.avatar-block
 {
   margin-top: 150px;
@@ -32,7 +37,6 @@ p
   text-decoration: none;
   font-size: 22px;
   line-height: 1.5em;  
-  margin-bottom: 1em;
 }
 
 .name
