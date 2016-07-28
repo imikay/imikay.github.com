@@ -69,3 +69,8 @@ a:hover
   color: #0900ff;
   text-decoration: none;
 }
+
+a.twitter:hover
+{
+  color: #55acee; 
+}
