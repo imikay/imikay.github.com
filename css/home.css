@@ -2,7 +2,7 @@ body
 {
   font-family: 'San Francisco', 'Helvetica Neue', Helvetica, Arial, Sans-serif;
   background-color: #fff;
-  color: #3a3a3a;
+  color: #636363;
   font-size: 22px;
   line-height: 1.5em;  
   animation: fadein 3s;
@@ -95,7 +95,7 @@ a.github:hover
 h4
 {
   text-transform: uppercase;
-  color: #986E5A;
+  color: #303030;
   margin-bottom: .5em;
 }
 
