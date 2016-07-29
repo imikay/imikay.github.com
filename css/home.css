@@ -1,11 +1,12 @@
-body 
+body
 {
   font-family: 'San Francisco', 'Helvetica Neue', Helvetica, Arial, Sans-serif;
   background-color: #fff;
   color: #636363;
   font-size: 22px;
-  line-height: 1.5em;  
+  line-height: 1.5em;
   animation: fadein 3s;
+  padding-top: 100px;
 }
 
 @keyframes fadein {
@@ -20,8 +21,8 @@ body
 
 .row.avatar-block
 {
-  margin-top: 150px;
   margin-bottom: 0.6em;
+  text-align: right;
 }
 
 .avatar
@@ -36,7 +37,7 @@ p
   text-shadow: none;
   text-decoration: none;
   font-size: 20px;
-  line-height: 1.5em;  
+  line-height: 1.5em;
 }
 
 .name
@@ -48,11 +49,6 @@ p
 {
   text-shadow: none;
   text-decoration: none;
-}
-
-.sns
-{
-  margin-right: 10px;
 }
 
 .findme
@@ -74,22 +70,22 @@ a:hover
 
 a.twitter:hover
 {
-  color: #55acee; 
+  color: #55acee;
 }
 
 a.facebook:hover
 {
-  color: #3b5998; 
+  color: #3b5998;
 }
 
 a.linkedin:hover
 {
-  color: #0077b5; 
+  color: #0077b5;
 }
 
 a.github:hover
 {
-  color: #666666; 
+  color: #666666;
 }
 
 h4
@@ -99,4 +95,18 @@ h4
   margin-bottom: .5em;
 }
 
+.sns-block
+{
+  margin-top: .5em;
+}
 
+.sns-block .sns
+{
+  line-height: 1.5em;
+  font-size: 20px;
+}
+
+.side a
+{
+  color: #ababab;
+}
