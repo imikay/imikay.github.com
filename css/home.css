@@ -36,23 +36,12 @@ p
   text-shadow: none;
   text-decoration: none;
   font-size: 20px;
-  line-height: 1.62em;
+  line-height: 1.62;
 }
 
 .name
 {
   font-weight: bold;
-}
-
-.find-me
-{
-  text-shadow: none;
-  text-decoration: none;
-}
-
-.findme
-{
-  margin-top: .8em;
 }
 
 a
