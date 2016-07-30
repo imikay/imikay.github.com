@@ -6,7 +6,6 @@ body
   font-size: 22px;
   line-height: 1.5em;
   animation: fadein 3s;
-  padding-top: 100px;
 }
 
 @keyframes fadein {
@@ -104,6 +103,12 @@ h4
 {
   line-height: 1.5em;
   font-size: 20px;
+}
+
+.side, .main
+{
+  padding-top: 100px;
+  margin-bottom: 0;
 }
 
 .side a
