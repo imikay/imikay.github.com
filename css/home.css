@@ -102,10 +102,22 @@ h4
 
 .side a
 {
-  color: #ababab;
+  color: #ccc;
 }
 
 .emotion
 {
   letter-spacing: .2em;
+}
+
+.weather
+{
+  color: #ccc;
+  margin-top: 1em;
+  font-size: 18px !important;
+}
+
+.weather .weather-icon
+{
+  font-size: 22px;
 }
