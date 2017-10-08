@@ -81,7 +81,8 @@ h4
 {
   color: #303030;
   margin-bottom: .8em;
-  font-size: 32px;
+  font-size: 28px;
+  font-weight: normal;
 }
 
 .sns-block
@@ -92,7 +93,7 @@ h4
 .sns-block .sns
 {
   line-height: 1.8em;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .side, .main
